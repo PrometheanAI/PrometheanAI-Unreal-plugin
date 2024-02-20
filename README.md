@@ -1,1 +1,1 @@
-# PrometheanAI-Unreal-plugin
+# PrometheanAI Unreal plugin
